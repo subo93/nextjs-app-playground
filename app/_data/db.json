@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "id": "3",
+      "name": "caw cat",
+      "email": "cw@example.com",
+      "userId": 1
+    },
+    {
+      "id": "4",
+      "name": "caw cat",
+      "email": "cw@example.com",
+      "userId": 1
+    },
+    {
+      "id": "d803",
+      "name": "Suvina",
+      "email": "suv@asd.asd",
+      "userId": "1"
+    },
+    {
+      "id": "aa5a",
+      "name": "sdf",
+      "email": "sdf@sdf.asd",
+      "userId": "1"
+    },
+    {
+      "id": "c665",
+      "name": "aa",
+      "email": "ggg@dsf.asd",
+      "userId": "1"
+    },
+    {
+      "name": "pandanew",
+      "email": "panda@sdf.sdf",
+      "userId": 1,
+      "id": "9235"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "jane"
+    }
+  ]
+}
